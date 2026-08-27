@@ -1,0 +1,717 @@
+customer_id,signup_date,plan_type,monthly_fee,acquisition_cost,churn_date,is_churned,avg_logins,avg_features_used,total_support_tickets,churn_risk_score_%,at_risk_mrr_loss,recommended_action
+1001,2024-11-07,Basic,50,30,,0,12.625,5.75,2,5.0,2.5,Low Risk: Upsell Pro/Enterprise Features
+1002,2024-06-06,Basic,50,30,,0,13.833333333333334,5.866666666666666,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1003,2024-12-31,Basic,50,30,,0,18.0,9.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1004,2024-11-21,Pro,200,100,,0,12.333333333333334,6.5,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1005,2024-08-16,Pro,200,100,,0,14.7,5.8,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1006,2024-11-10,Basic,50,30,,0,14.5,5.375,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1007,2024-03-12,Enterprise,500,200,,0,13.883720930232558,5.953488372093023,5,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1008,2024-11-09,Pro,200,100,,0,16.375,6.375,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1009,2024-08-16,Pro,200,100,,0,14.85,6.45,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1016,2024-08-02,Enterprise,500,200,,0,14.727272727272727,5.0,3,7.0,35.0,Low Risk: Upsell Pro/Enterprise Features
+1017,2024-05-06,Pro,200,100,,0,15.228571428571428,6.2,7,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1018,2024-03-31,Pro,200,100,,0,13.15,5.7,6,26.0,52.0,Low Risk: Upsell Pro/Enterprise Features
+1019,2024-06-29,Basic,50,30,,0,15.666666666666666,5.555555555555555,2,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1020,2024-10-13,Pro,200,100,2025-05-08,1,13.2,5.8,4,76.0,152.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1021,2024-04-29,Pro,200,100,2024-06-21,1,6.625,2.875,2,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1022,2024-03-22,Enterprise,500,200,,0,14.804878048780488,6.2682926829268295,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1023,2024-12-15,Basic,50,30,2025-06-23,1,12.964285714285714,5.5,3,74.0,37.0,High Risk: Automated Re-engagement Email & 15% Discount
+1024,2024-10-22,Basic,50,30,,0,15.181818181818182,5.454545454545454,2,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1025,2024-03-13,Enterprise,500,200,,0,14.674418604651162,5.534883720930233,6,12.0,60.0,Low Risk: Upsell Pro/Enterprise Features
+1026,2025-03-27,Pro,200,100,2025-06-10,1,8.090909090909092,4.545454545454546,2,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1027,2024-06-12,Pro,200,100,,0,15.033333333333333,5.833333333333333,6,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1030,2024-11-18,Enterprise,500,200,,0,15.0,5.142857142857143,1,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1031,2024-04-08,Pro,200,100,2024-12-14,1,13.083333333333334,5.777777777777778,3,71.0,142.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1034,2024-04-06,Basic,50,30,2025-04-06,1,13.264150943396226,5.3584905660377355,7,94.0,47.0,High Risk: Automated Re-engagement Email & 15% Discount
+1035,2024-07-31,Basic,50,30,2025-05-02,1,12.3,5.35,2,79.0,39.5,High Risk: Automated Re-engagement Email & 15% Discount
+1036,2024-05-07,Enterprise,500,200,,0,13.057142857142857,5.2,0,10.0,50.0,Low Risk: Upsell Pro/Enterprise Features
+1037,2024-11-30,Pro,200,100,,0,18.4,7.2,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1038,2024-01-28,Enterprise,500,200,,0,14.020408163265307,5.816326530612245,0,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1040,2024-05-16,Enterprise,500,200,,0,12.696969696969697,6.575757575757576,2,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1041,2024-06-21,Pro,200,100,,0,14.607142857142858,6.214285714285714,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1042,2024-04-18,Pro,200,100,2025-03-19,1,13.729166666666666,5.479166666666667,9,98.0,196.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1043,2025-01-27,Enterprise,500,200,2025-03-11,1,4.857142857142857,3.142857142857143,3,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1046,2024-09-18,Pro,200,100,,0,13.25,6.8125,1,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1047,2025-01-05,Basic,50,30,2025-04-20,1,11.6875,4.4375,4,99.0,49.5,High Risk: Automated Re-engagement Email & 15% Discount
+1048,2024-08-25,Enterprise,500,200,,0,15.157894736842104,5.368421052631579,1,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1049,2024-05-15,Pro,200,100,,0,14.941176470588236,5.823529411764706,2,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1050,2024-06-30,Pro,200,100,,0,12.296296296296296,5.111111111111111,1,9.0,18.0,Low Risk: Upsell Pro/Enterprise Features
+1052,2024-05-03,Basic,50,30,,0,14.057142857142857,6.142857142857143,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1053,2024-12-15,Enterprise,500,200,,0,7.666666666666667,8.333333333333334,0,15.0,75.0,Low Risk: Upsell Pro/Enterprise Features
+1054,2024-03-09,Pro,200,100,,0,14.627906976744185,5.651162790697675,3,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1055,2024-03-30,Enterprise,500,200,,0,14.05,5.9,3,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1056,2024-10-12,Pro,200,100,2024-12-15,1,6.4,3.9,3,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1057,2024-04-05,Basic,50,30,,0,14.461538461538462,6.333333333333333,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1059,2024-02-05,Enterprise,500,200,,0,15.270833333333334,5.854166666666667,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1060,2025-03-31,Basic,50,30,2025-06-10,1,8.181818181818182,3.8181818181818183,3,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1062,2025-05-13,Pro,200,100,2025-06-12,1,2.0,3.2,0,83.0,166.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1063,2024-07-28,Pro,200,100,,0,15.130434782608695,6.043478260869565,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1065,2024-07-25,Enterprise,500,200,,0,13.08695652173913,5.608695652173913,3,10.0,50.0,Low Risk: Upsell Pro/Enterprise Features
+1066,2024-12-10,Enterprise,500,200,,0,18.75,5.75,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1068,2024-03-05,Pro,200,100,,0,14.772727272727273,6.0,7,3.0,6.0,Low Risk: Upsell Pro/Enterprise Features
+1069,2024-02-16,Enterprise,500,200,,0,14.282608695652174,5.956521739130435,3,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1070,2024-01-10,Pro,200,100,,0,14.673076923076923,5.75,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1071,2024-11-15,Enterprise,500,200,,0,10.571428571428571,6.428571428571429,2,13.0,65.0,Low Risk: Upsell Pro/Enterprise Features
+1073,2024-01-08,Enterprise,500,200,,0,14.846153846153847,5.653846153846154,4,27.0,135.0,Low Risk: Upsell Pro/Enterprise Features
+1074,2024-08-09,Enterprise,500,200,2025-05-13,1,12.95,5.475,7,88.0,440.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1075,2024-10-14,Enterprise,500,200,2025-06-25,1,15.432432432432432,5.675675675675675,8,83.0,415.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1076,2024-12-26,Enterprise,500,200,,0,15.0,4.0,0,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1077,2024-06-04,Basic,50,30,,0,14.548387096774194,5.935483870967742,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1078,2024-09-21,Basic,50,30,,0,12.933333333333334,6.933333333333334,1,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1079,2024-03-17,Basic,50,30,,0,16.166666666666668,5.738095238095238,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1080,2024-02-22,Enterprise,500,200,,0,14.555555555555555,5.866666666666666,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1081,2024-07-01,Basic,50,30,,0,15.481481481481481,6.851851851851852,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1083,2024-10-02,Pro,200,100,,0,14.0,5.142857142857143,2,7.0,14.0,Low Risk: Upsell Pro/Enterprise Features
+1084,2024-01-02,Basic,50,30,,0,14.88679245283019,6.0,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1085,2024-10-24,Basic,50,30,2025-05-21,1,11.4,5.433333333333334,4,99.0,49.5,High Risk: Automated Re-engagement Email & 15% Discount
+1086,2024-01-29,Enterprise,500,200,,0,15.510204081632653,6.346938775510204,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1087,2024-07-19,Enterprise,500,200,,0,16.916666666666668,5.958333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1089,2024-06-12,Basic,50,30,,0,13.966666666666667,6.233333333333333,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1090,2024-11-19,Enterprise,500,200,,0,17.857142857142858,6.714285714285714,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1091,2024-07-31,Pro,200,100,,0,15.782608695652174,6.217391304347826,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1092,2024-05-22,Pro,200,100,,0,15.545454545454545,5.424242424242424,3,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1093,2024-07-29,Pro,200,100,,0,15.173913043478262,5.521739130434782,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1094,2024-12-31,Enterprise,500,200,,0,21.0,7.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1095,2024-05-09,Enterprise,500,200,2024-08-11,1,12.285714285714286,4.714285714285714,3,88.0,440.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1097,2024-05-26,Enterprise,500,200,,0,15.3125,5.96875,7,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1100,2024-05-20,Enterprise,500,200,,0,14.242424242424242,5.545454545454546,1,17.0,85.0,Low Risk: Upsell Pro/Enterprise Features
+1101,2024-09-06,Enterprise,500,200,,0,12.176470588235293,6.294117647058823,4,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1103,2024-03-04,Basic,50,30,,0,14.159090909090908,6.409090909090909,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1104,2024-03-07,Pro,200,100,,0,14.744186046511627,5.604651162790698,5,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1106,2024-07-25,Pro,200,100,,0,14.434782608695652,5.521739130434782,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1107,2024-02-19,Pro,200,100,,0,14.934782608695652,6.065217391304348,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1108,2024-11-19,Pro,200,100,,0,15.428571428571429,6.142857142857143,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1109,2024-06-06,Pro,200,100,,0,16.1,6.5,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1110,2024-11-28,Basic,50,30,,0,13.0,5.6,2,8.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1112,2024-03-12,Enterprise,500,200,,0,15.395348837209303,6.488372093023256,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1113,2024-07-19,Basic,50,30,,0,15.291666666666666,6.833333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1114,2024-01-29,Basic,50,30,,0,13.551020408163266,5.959183673469388,1,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1115,2024-10-19,Enterprise,500,200,,0,11.545454545454545,6.818181818181818,3,7.0,35.0,Low Risk: Upsell Pro/Enterprise Features
+1117,2024-01-10,Pro,200,100,,0,15.23076923076923,6.0576923076923075,8,22.0,44.0,Low Risk: Upsell Pro/Enterprise Features
+1118,2024-11-03,Pro,200,100,,0,13.555555555555555,6.0,0,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1119,2024-07-26,Enterprise,500,200,2025-04-22,1,13.666666666666666,5.205128205128205,8,98.0,490.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1120,2024-08-19,Enterprise,500,200,2025-03-15,1,12.066666666666666,5.166666666666667,1,19.0,95.0,Low Risk: Upsell Pro/Enterprise Features
+1124,2024-09-06,Basic,50,30,,0,14.0,6.411764705882353,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1125,2024-08-25,Enterprise,500,200,2025-01-21,1,10.318181818181818,5.409090909090909,8,98.0,490.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1126,2024-12-08,Pro,200,100,,0,14.0,6.75,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1128,2024-01-22,Pro,200,100,,0,15.7,5.86,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1129,2024-09-07,Basic,50,30,,0,14.941176470588236,6.0,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1132,2024-11-07,Basic,50,30,2025-05-02,1,12.307692307692308,5.423076923076923,2,73.0,36.5,High Risk: Automated Re-engagement Email & 15% Discount
+1133,2024-03-30,Pro,200,100,,0,13.425,6.025,4,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1134,2024-02-15,Pro,200,100,,0,15.478260869565217,5.760869565217392,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1137,2024-01-08,Basic,50,30,2024-02-07,1,3.6,2.8,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1138,2024-06-30,Basic,50,30,,0,13.925925925925926,5.962962962962963,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1139,2024-10-16,Enterprise,500,200,,0,16.666666666666668,5.916666666666667,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1141,2024-02-06,Basic,50,30,,0,12.875,6.270833333333333,4,5.0,2.5,Low Risk: Upsell Pro/Enterprise Features
+1142,2024-12-06,Enterprise,500,200,,0,13.75,5.75,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1143,2024-04-13,Pro,200,100,2025-01-27,1,13.166666666666666,5.809523809523809,5,63.0,126.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1145,2024-11-08,Basic,50,30,,0,13.0,5.25,0,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1146,2024-06-19,Pro,200,100,,0,14.517241379310345,6.0,4,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1151,2024-07-07,Enterprise,500,200,2025-04-24,1,13.738095238095237,5.285714285714286,9,97.0,485.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1152,2024-11-24,Enterprise,500,200,,0,16.166666666666668,6.5,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1153,2024-09-17,Basic,50,30,,0,17.1875,5.0625,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1154,2025-06-26,Basic,50,30,2025-06-30,1,2.0,2.0,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1155,2024-04-12,Basic,50,30,,0,15.421052631578947,5.894736842105263,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1156,2024-12-18,Enterprise,500,200,,0,13.666666666666666,5.0,0,17.0,85.0,Low Risk: Upsell Pro/Enterprise Features
+1158,2024-06-19,Enterprise,500,200,,0,14.724137931034482,6.517241379310345,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1159,2024-05-30,Enterprise,500,200,,0,13.806451612903226,6.354838709677419,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1161,2024-11-28,Pro,200,100,,0,14.2,5.8,1,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1163,2024-02-06,Enterprise,500,200,,0,14.020833333333334,5.875,7,4.0,20.0,Low Risk: Upsell Pro/Enterprise Features
+1164,2024-09-23,Pro,200,100,,0,14.466666666666667,5.8,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1165,2024-11-08,Basic,50,30,,0,14.875,5.75,0,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1167,2024-01-11,Enterprise,500,200,2025-01-21,1,14.24074074074074,5.555555555555555,5,74.0,370.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1169,2024-01-01,Enterprise,500,200,,0,13.79245283018868,5.69811320754717,7,19.0,95.0,Low Risk: Upsell Pro/Enterprise Features
+1170,2024-02-18,Pro,200,100,,0,14.195652173913043,6.413043478260869,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1171,2024-08-01,Enterprise,500,200,,0,15.545454545454545,6.090909090909091,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1172,2024-10-12,Enterprise,500,200,,0,15.0,6.333333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1173,2024-03-26,Basic,50,30,,0,15.682926829268293,5.951219512195122,1,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1175,2024-07-16,Enterprise,500,200,2024-09-13,1,9.11111111111111,3.4444444444444446,2,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1176,2024-02-11,Enterprise,500,200,,0,15.48936170212766,6.1063829787234045,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1177,2024-02-03,Basic,50,30,,0,14.083333333333334,5.5,5,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1178,2025-01-30,Basic,50,30,2025-03-26,1,8.75,3.5,4,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1180,2024-04-21,Pro,200,100,,0,15.08108108108108,5.72972972972973,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1181,2024-01-09,Basic,50,30,2024-06-03,1,11.80952380952381,5.571428571428571,3,83.0,41.5,High Risk: Automated Re-engagement Email & 15% Discount
+1182,2024-12-31,Enterprise,500,200,,0,14.0,4.0,0,9.0,45.0,Low Risk: Upsell Pro/Enterprise Features
+1184,2024-11-24,Basic,50,30,,0,10.666666666666666,6.833333333333333,0,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1185,2024-12-11,Pro,200,100,2025-06-27,1,13.379310344827585,5.827586206896552,4,22.0,44.0,Low Risk: Upsell Pro/Enterprise Features
+1187,2024-03-22,Enterprise,500,200,,0,13.951219512195122,6.024390243902439,5,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1188,2024-07-04,Pro,200,100,2024-09-04,1,5.777777777777778,3.4444444444444446,4,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1189,2024-10-04,Pro,200,100,,0,16.76923076923077,6.769230769230769,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1193,2024-01-24,Pro,200,100,2025-03-28,1,13.516129032258064,5.903225806451613,6,71.0,142.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1195,2024-08-23,Enterprise,500,200,,0,15.105263157894736,6.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1196,2024-03-01,Enterprise,500,200,,0,14.636363636363637,6.113636363636363,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1197,2025-03-08,Basic,50,30,2025-06-23,1,11.0,5.125,2,95.0,47.5,High Risk: Automated Re-engagement Email & 15% Discount
+1198,2024-08-02,Pro,200,100,,0,13.5,5.545454545454546,3,8.0,16.0,Low Risk: Upsell Pro/Enterprise Features
+1199,2024-11-16,Basic,50,30,,0,14.571428571428571,5.714285714285714,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1200,2024-03-25,Pro,200,100,2025-06-17,1,14.876923076923077,5.815384615384615,9,77.0,154.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1202,2024-03-28,Enterprise,500,200,,0,14.375,5.5,4,6.0,30.0,Low Risk: Upsell Pro/Enterprise Features
+1203,2024-06-26,Pro,200,100,,0,16.25,6.071428571428571,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1204,2024-01-05,Enterprise,500,200,,0,14.307692307692308,6.038461538461538,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1209,2024-01-07,Basic,50,30,,0,15.01923076923077,6.403846153846154,9,5.0,2.5,Low Risk: Upsell Pro/Enterprise Features
+1210,2024-08-09,Enterprise,500,200,2025-03-08,1,12.35483870967742,5.193548387096774,6,95.0,475.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1213,2024-09-05,Enterprise,500,200,,0,12.411764705882353,6.0,5,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1214,2024-03-25,Enterprise,500,200,2024-11-28,1,13.805555555555555,5.277777777777778,5,62.0,310.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1215,2024-03-08,Enterprise,500,200,,0,13.651162790697674,5.674418604651163,6,12.0,60.0,Low Risk: Upsell Pro/Enterprise Features
+1216,2024-10-28,Basic,50,30,,0,13.8,5.4,1,6.0,3.0,Low Risk: Upsell Pro/Enterprise Features
+1218,2024-05-03,Basic,50,30,,0,15.714285714285714,5.742857142857143,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1219,2024-10-28,Pro,200,100,,0,14.5,5.8,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1220,2024-03-29,Basic,50,30,2024-11-05,1,12.71875,5.40625,6,93.0,46.5,High Risk: Automated Re-engagement Email & 15% Discount
+1222,2024-02-09,Pro,200,100,2025-04-01,1,15.733333333333333,6.016666666666667,8,62.0,124.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1223,2025-02-28,Enterprise,500,200,2025-05-23,1,11.846153846153847,4.615384615384615,3,98.0,490.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1224,2024-11-19,Pro,200,100,,0,10.571428571428571,5.142857142857143,1,23.0,46.0,Low Risk: Upsell Pro/Enterprise Features
+1225,2025-06-04,Enterprise,500,200,2025-06-30,1,0.5,1.25,6,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1226,2024-10-06,Basic,50,30,2025-03-18,1,13.166666666666666,5.375,7,96.0,48.0,High Risk: Automated Re-engagement Email & 15% Discount
+1228,2024-07-03,Enterprise,500,200,,0,15.222222222222221,5.962962962962963,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1229,2025-01-30,Enterprise,500,200,2025-05-13,1,10.0,4.733333333333333,4,99.0,495.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1231,2024-02-05,Pro,200,100,,0,15.895833333333334,6.0625,7,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1233,2024-11-23,Pro,200,100,,0,14.666666666666666,6.5,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1234,2024-10-21,Basic,50,30,2025-02-26,1,12.263157894736842,4.631578947368421,2,94.0,47.0,High Risk: Automated Re-engagement Email & 15% Discount
+1235,2025-02-24,Enterprise,500,200,2025-03-31,1,4.666666666666667,2.3333333333333335,1,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1237,2024-11-22,Enterprise,500,200,,0,14.833333333333334,6.333333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1239,2024-05-21,Pro,200,100,2025-05-28,1,13.222222222222221,5.722222222222222,9,83.0,166.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1241,2024-09-06,Pro,200,100,2025-03-16,1,13.321428571428571,4.821428571428571,3,94.0,188.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1242,2025-03-09,Basic,50,30,2025-06-19,1,11.266666666666667,4.066666666666666,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1243,2024-05-16,Basic,50,30,,0,17.0,6.03030303030303,3,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1244,2024-04-22,Enterprise,500,200,,0,15.054054054054054,5.945945945945946,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1247,2024-05-28,Pro,200,100,2024-08-21,1,10.538461538461538,4.461538461538462,6,99.0,198.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1249,2024-06-06,Enterprise,500,200,,0,12.533333333333333,6.333333333333333,2,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1250,2024-10-12,Pro,200,100,,0,13.083333333333334,6.5,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1252,2024-02-21,Basic,50,30,,0,15.326086956521738,6.108695652173913,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1253,2024-12-09,Pro,200,100,,0,12.0,4.75,0,28.0,56.0,Low Risk: Upsell Pro/Enterprise Features
+1254,2024-04-15,Enterprise,500,200,,0,14.710526315789474,6.0,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1255,2024-01-29,Pro,200,100,,0,14.040816326530612,6.040816326530612,8,10.0,20.0,Low Risk: Upsell Pro/Enterprise Features
+1257,2024-03-28,Enterprise,500,200,2024-06-20,1,8.76923076923077,4.846153846153846,3,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1258,2024-02-26,Pro,200,100,,0,15.088888888888889,6.222222222222222,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1259,2024-05-10,Basic,50,30,,0,14.205882352941176,5.794117647058823,3,4.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1263,2025-01-12,Basic,50,30,2025-06-20,1,11.869565217391305,5.217391304347826,4,96.0,48.0,High Risk: Automated Re-engagement Email & 15% Discount
+1264,2024-12-13,Pro,200,100,,0,15.666666666666666,4.333333333333333,0,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1265,2024-03-18,Basic,50,30,2024-06-23,1,8.785714285714286,5.357142857142857,5,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1266,2024-04-01,Enterprise,500,200,,0,15.15,6.3,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1267,2024-05-27,Enterprise,500,200,,0,14.09375,6.09375,2,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1268,2024-05-22,Enterprise,500,200,2025-06-05,1,11.781818181818181,5.6909090909090905,7,85.0,425.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1271,2024-11-23,Pro,200,100,,0,16.666666666666668,5.5,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1273,2024-10-24,Pro,200,100,2025-05-17,1,12.7,5.333333333333333,2,79.0,158.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1275,2024-11-05,Enterprise,500,200,,0,13.333333333333334,6.111111111111111,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1276,2025-02-13,Pro,200,100,2025-04-07,1,5.125,4.125,3,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1277,2025-06-23,Enterprise,500,200,2025-06-30,1,2.0,1.5,3,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1278,2025-04-23,Enterprise,500,200,2025-06-05,1,4.428571428571429,3.142857142857143,2,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1279,2024-09-09,Enterprise,500,200,,0,12.764705882352942,5.647058823529412,3,4.0,20.0,Low Risk: Upsell Pro/Enterprise Features
+1281,2024-06-22,Basic,50,30,,0,15.0,6.071428571428571,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1282,2024-03-24,Pro,200,100,2025-06-24,1,13.878787878787879,5.606060606060606,9,92.0,184.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1283,2024-05-10,Enterprise,500,200,,0,14.882352941176471,6.352941176470588,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1286,2024-08-23,Enterprise,500,200,,0,14.368421052631579,5.631578947368421,1,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1287,2025-02-23,Basic,50,30,2025-04-26,1,9.444444444444445,3.6666666666666665,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1288,2024-09-22,Pro,200,100,,0,13.0,6.266666666666667,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1289,2024-08-02,Enterprise,500,200,,0,15.272727272727273,6.636363636363637,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1290,2024-09-06,Pro,200,100,,0,13.235294117647058,5.235294117647059,1,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1291,2024-07-13,Basic,50,30,2024-08-31,1,7.375,3.25,1,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1292,2024-04-02,Basic,50,30,2024-07-25,1,9.352941176470589,5.235294117647059,1,83.0,41.5,High Risk: Automated Re-engagement Email & 15% Discount
+1294,2024-03-25,Enterprise,500,200,2025-05-26,1,14.612903225806452,5.709677419354839,7,68.0,340.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1297,2024-01-09,Basic,50,30,,0,13.23076923076923,5.865384615384615,8,17.0,8.5,Low Risk: Upsell Pro/Enterprise Features
+1298,2024-12-24,Pro,200,100,,0,21.0,6.0,0,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1300,2024-02-14,Enterprise,500,200,,0,14.340425531914894,6.0,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1302,2025-01-01,Pro,200,100,,0,19.0,4.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1303,2024-12-07,Enterprise,500,200,,0,11.0,6.75,0,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1305,2024-04-12,Basic,50,30,,0,15.342105263157896,5.868421052631579,7,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1308,2024-05-18,Basic,50,30,2025-04-02,1,13.326086956521738,5.5,4,53.0,26.5,Medium Risk: Assign Support Specialist for Ticket Resolution
+1309,2024-08-28,Basic,50,30,2024-11-02,1,6.8,4.0,5,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1310,2024-08-05,Basic,50,30,,0,14.136363636363637,5.681818181818182,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1311,2024-09-07,Basic,50,30,,0,12.529411764705882,5.9411764705882355,5,14.0,7.0,Low Risk: Upsell Pro/Enterprise Features
+1312,2024-11-23,Basic,50,30,2025-03-18,1,12.176470588235293,4.0,2,91.0,45.5,High Risk: Automated Re-engagement Email & 15% Discount
+1313,2024-02-01,Enterprise,500,200,2025-02-24,1,13.678571428571429,5.357142857142857,5,81.0,405.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1314,2024-04-10,Pro,200,100,,0,14.179487179487179,6.0,2,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1315,2024-06-26,Basic,50,30,,0,15.75,5.5,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1316,2024-03-19,Enterprise,500,200,,0,15.238095238095237,5.690476190476191,5,7.0,35.0,Low Risk: Upsell Pro/Enterprise Features
+1317,2024-11-15,Enterprise,500,200,,0,17.285714285714285,5.571428571428571,2,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1318,2024-09-28,Enterprise,500,200,,0,14.714285714285714,6.642857142857143,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1319,2024-03-09,Basic,50,30,,0,14.348837209302326,5.767441860465116,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1320,2024-07-10,Enterprise,500,200,,0,14.576923076923077,5.923076923076923,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1321,2024-08-10,Enterprise,500,200,,0,14.0,5.476190476190476,5,23.0,115.0,Low Risk: Upsell Pro/Enterprise Features
+1322,2024-05-28,Enterprise,500,200,,0,12.59375,5.25,3,37.0,185.0,Low Risk: Upsell Pro/Enterprise Features
+1323,2024-04-22,Pro,200,100,,0,15.972972972972974,6.324324324324325,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1324,2024-07-11,Enterprise,500,200,,0,16.2,5.88,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1325,2024-10-08,Basic,50,30,,0,17.53846153846154,5.846153846153846,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1327,2024-12-15,Enterprise,500,200,,0,12.0,5.666666666666667,0,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1332,2025-01-21,Pro,200,100,2025-04-14,1,8.166666666666666,4.25,5,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1333,2024-10-30,Enterprise,500,200,,0,11.7,4.7,1,40.0,200.0,Medium Risk: Send Feature Tutorial & Product Tip Campaign
+1334,2024-08-13,Enterprise,500,200,,0,12.523809523809524,5.857142857142857,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1336,2024-11-21,Enterprise,500,200,,0,14.5,6.333333333333333,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1337,2024-08-20,Basic,50,30,2024-12-12,1,10.941176470588236,4.588235294117647,1,94.0,47.0,High Risk: Automated Re-engagement Email & 15% Discount
+1339,2024-02-27,Basic,50,30,,0,14.266666666666667,6.088888888888889,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1340,2024-09-30,Basic,50,30,,0,16.857142857142858,6.785714285714286,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1341,2024-08-21,Basic,50,30,,0,15.95,6.2,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1342,2024-11-30,Basic,50,30,,0,11.2,6.4,0,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1343,2024-04-28,Pro,200,100,,0,15.38888888888889,5.944444444444445,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1345,2024-08-15,Enterprise,500,200,,0,16.15,5.95,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1346,2024-03-22,Pro,200,100,2024-07-02,1,10.0,4.8,1,98.0,196.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1347,2024-11-13,Basic,50,30,2025-04-20,1,10.217391304347826,5.086956521739131,4,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1349,2024-05-01,Pro,200,100,,0,14.416666666666666,6.5,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1350,2024-11-16,Pro,200,100,,0,16.428571428571427,4.571428571428571,0,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1351,2024-09-01,Enterprise,500,200,,0,13.944444444444445,6.777777777777778,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1352,2024-02-21,Enterprise,500,200,2024-10-26,1,14.88888888888889,5.5,8,87.0,435.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1353,2024-07-29,Enterprise,500,200,,0,12.0,5.739130434782608,2,11.0,55.0,Low Risk: Upsell Pro/Enterprise Features
+1354,2024-07-05,Enterprise,500,200,,0,14.461538461538462,5.384615384615385,4,7.0,35.0,Low Risk: Upsell Pro/Enterprise Features
+1355,2024-12-04,Enterprise,500,200,2025-03-04,1,10.23076923076923,4.6923076923076925,1,95.0,475.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1356,2024-12-28,Pro,200,100,,0,21.0,5.0,0,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1358,2024-06-16,Enterprise,500,200,2025-03-22,1,14.275,4.675,3,74.0,370.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1359,2025-04-24,Basic,50,30,2025-06-25,1,9.0,3.888888888888889,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1360,2024-01-23,Basic,50,30,,0,14.92,5.3,2,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1363,2024-04-06,Pro,200,100,,0,14.64102564102564,5.769230769230769,8,13.0,26.0,Low Risk: Upsell Pro/Enterprise Features
+1366,2024-02-29,Basic,50,30,,0,14.863636363636363,6.2272727272727275,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1368,2024-12-10,Basic,50,30,,0,12.25,5.25,0,8.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1369,2024-08-22,Pro,200,100,,0,16.36842105263158,5.368421052631579,2,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1370,2024-11-14,Pro,200,100,,0,11.571428571428571,5.428571428571429,0,8.0,16.0,Low Risk: Upsell Pro/Enterprise Features
+1371,2024-06-01,Enterprise,500,200,,0,14.612903225806452,6.580645161290323,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1373,2024-02-08,Enterprise,500,200,,0,14.02127659574468,5.74468085106383,2,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1374,2024-10-24,Basic,50,30,,0,12.7,5.5,1,14.0,7.0,Low Risk: Upsell Pro/Enterprise Features
+1375,2024-06-21,Basic,50,30,,0,14.428571428571429,5.321428571428571,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1376,2024-12-01,Enterprise,500,200,,0,12.0,6.2,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1379,2024-09-05,Basic,50,30,2025-02-11,1,13.304347826086957,4.782608695652174,5,97.0,48.5,High Risk: Automated Re-engagement Email & 15% Discount
+1380,2024-03-30,Pro,200,100,2025-05-28,1,13.688524590163935,5.754098360655738,12,69.0,138.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1382,2025-04-08,Pro,200,100,2025-05-14,1,2.3333333333333335,1.6666666666666667,1,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1383,2024-05-15,Basic,50,30,,0,15.117647058823529,6.0,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1384,2024-12-29,Basic,50,30,,0,22.0,9.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1385,2024-02-09,Basic,50,30,,0,13.574468085106384,5.872340425531915,7,12.0,6.0,Low Risk: Upsell Pro/Enterprise Features
+1386,2024-04-07,Enterprise,500,200,2024-10-15,1,12.285714285714286,4.571428571428571,0,75.0,375.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1387,2024-05-26,Enterprise,500,200,,0,14.53125,6.03125,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1388,2024-04-19,Basic,50,30,,0,15.378378378378379,5.837837837837838,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1389,2024-06-02,Basic,50,30,,0,14.096774193548388,5.935483870967742,4,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1392,2024-12-20,Pro,200,100,,0,15.5,4.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1393,2024-09-13,Enterprise,500,200,2025-04-28,1,14.212121212121213,5.393939393939394,6,80.0,400.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1394,2024-02-01,Basic,50,30,,0,14.4375,6.0,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1395,2024-03-21,Enterprise,500,200,,0,14.682926829268293,6.512195121951219,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1396,2024-07-08,Enterprise,500,200,,0,13.807692307692308,5.961538461538462,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1397,2024-05-16,Basic,50,30,2025-04-23,1,12.63265306122449,5.63265306122449,9,86.0,43.0,High Risk: Automated Re-engagement Email & 15% Discount
+1398,2024-03-10,Pro,200,100,,0,15.953488372093023,5.790697674418604,8,18.0,36.0,Low Risk: Upsell Pro/Enterprise Features
+1399,2024-08-23,Pro,200,100,,0,18.105263157894736,5.2105263157894735,4,8.0,16.0,Low Risk: Upsell Pro/Enterprise Features
+1400,2024-11-08,Enterprise,500,200,,0,13.875,6.125,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1401,2025-01-14,Enterprise,500,200,2025-05-23,1,11.947368421052632,5.421052631578948,2,77.0,385.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1403,2025-03-05,Pro,200,100,2025-04-23,1,6.125,2.625,5,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1404,2025-04-29,Basic,50,30,2025-06-01,1,2.8,3.0,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1407,2024-11-07,Enterprise,500,200,,0,13.5,5.125,1,11.0,55.0,Low Risk: Upsell Pro/Enterprise Features
+1408,2024-02-13,Pro,200,100,,0,14.319148936170214,5.76595744680851,4,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1411,2024-10-29,Pro,200,100,,0,13.1,6.6,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1413,2024-02-28,Pro,200,100,,0,14.444444444444445,5.844444444444444,9,28.0,56.0,Low Risk: Upsell Pro/Enterprise Features
+1414,2025-02-28,Enterprise,500,200,2025-06-21,1,10.941176470588236,4.352941176470588,5,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1416,2024-02-02,Pro,200,100,,0,13.854166666666666,5.729166666666667,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1417,2024-11-04,Pro,200,100,,0,14.11111111111111,5.444444444444445,1,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1419,2025-01-31,Pro,200,100,2025-03-31,1,8.88888888888889,4.0,0,71.0,142.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1420,2024-10-07,Basic,50,30,,0,13.076923076923077,6.230769230769231,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1421,2024-01-01,Enterprise,500,200,,0,13.660377358490566,5.69811320754717,6,11.0,55.0,Low Risk: Upsell Pro/Enterprise Features
+1422,2024-12-09,Enterprise,500,200,,0,11.5,6.25,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1423,2024-07-13,Basic,50,30,,0,13.56,6.12,2,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1424,2025-04-27,Enterprise,500,200,2025-06-10,1,8.285714285714286,2.7142857142857144,5,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1425,2024-08-23,Enterprise,500,200,,0,14.052631578947368,5.894736842105263,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1426,2024-02-03,Enterprise,500,200,,0,15.6875,6.041666666666667,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1427,2024-05-07,Pro,200,100,,0,15.228571428571428,5.828571428571428,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1428,2024-06-13,Enterprise,500,200,2025-02-24,1,13.378378378378379,5.675675675675675,8,62.0,310.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1429,2024-02-06,Basic,50,30,,0,14.0625,6.208333333333333,8,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1430,2024-10-03,Basic,50,30,,0,14.076923076923077,5.923076923076923,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1431,2024-09-26,Pro,200,100,,0,16.0,6.214285714285714,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1432,2024-07-25,Pro,200,100,,0,15.391304347826088,6.260869565217392,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1434,2024-10-27,Pro,200,100,,0,13.2,7.0,1,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1435,2024-09-28,Pro,200,100,,0,13.071428571428571,5.928571428571429,2,6.0,12.0,Low Risk: Upsell Pro/Enterprise Features
+1436,2024-12-25,Enterprise,500,200,,0,17.0,8.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1437,2024-03-27,Basic,50,30,,0,13.707317073170731,6.121951219512195,6,4.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1438,2025-03-28,Pro,200,100,2025-05-24,1,8.666666666666666,3.5555555555555554,2,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1439,2024-01-31,Enterprise,500,200,,0,15.285714285714286,6.36734693877551,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1440,2024-06-19,Enterprise,500,200,,0,13.413793103448276,6.241379310344827,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1441,2024-01-30,Pro,200,100,,0,13.081632653061224,5.653061224489796,10,39.0,78.0,Low Risk: Upsell Pro/Enterprise Features
+1442,2025-01-29,Basic,50,30,2025-04-08,1,9.9,4.7,2,99.0,49.5,High Risk: Automated Re-engagement Email & 15% Discount
+1443,2025-02-08,Enterprise,500,200,2025-06-11,1,12.055555555555555,4.611111111111111,2,98.0,490.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1448,2024-06-30,Pro,200,100,2024-09-05,1,7.8,4.9,3,99.0,198.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1449,2024-05-06,Enterprise,500,200,,0,13.514285714285714,5.8,4,11.0,55.0,Low Risk: Upsell Pro/Enterprise Features
+1450,2024-03-21,Basic,50,30,2025-04-27,1,12.96551724137931,5.810344827586207,4,90.0,45.0,High Risk: Automated Re-engagement Email & 15% Discount
+1452,2024-12-15,Pro,200,100,,0,14.0,5.333333333333333,0,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1453,2025-04-24,Enterprise,500,200,2025-06-16,1,8.25,4.25,1,99.0,495.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1454,2024-02-22,Enterprise,500,200,,0,14.71111111111111,6.288888888888889,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1455,2024-11-18,Enterprise,500,200,,0,16.142857142857142,6.714285714285714,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1456,2024-08-19,Enterprise,500,200,,0,15.75,5.85,2,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1457,2025-01-30,Enterprise,500,200,2025-06-03,1,11.5,5.111111111111111,7,98.0,490.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1458,2024-06-25,Enterprise,500,200,,0,16.642857142857142,5.857142857142857,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1459,2024-08-10,Basic,50,30,,0,14.857142857142858,6.904761904761905,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1460,2024-03-07,Basic,50,30,,0,14.581395348837209,6.093023255813954,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1462,2024-03-31,Pro,200,100,,0,15.7,6.375,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1463,2024-08-18,Pro,200,100,,0,16.5,6.4,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1464,2024-09-09,Basic,50,30,,0,13.0,6.176470588235294,0,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1465,2024-09-08,Basic,50,30,2024-11-28,1,10.75,4.166666666666667,4,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1466,2024-06-26,Basic,50,30,,0,15.071428571428571,6.214285714285714,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1467,2024-10-31,Pro,200,100,,0,15.555555555555555,5.333333333333333,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1469,2024-10-25,Basic,50,30,,0,16.6,5.3,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1470,2024-12-23,Enterprise,500,200,,0,18.0,7.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1471,2024-01-19,Pro,200,100,2024-05-26,1,12.368421052631579,5.052631578947368,4,99.0,198.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1472,2024-07-06,Pro,200,100,,0,15.807692307692308,5.884615384615385,2,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1473,2024-03-22,Basic,50,30,,0,14.536585365853659,5.682926829268292,6,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1474,2024-12-23,Basic,50,30,,0,12.5,5.0,0,10.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1475,2024-08-19,Pro,200,100,2025-03-27,1,11.875,6.125,3,25.0,50.0,Low Risk: Upsell Pro/Enterprise Features
+1476,2024-04-04,Pro,200,100,,0,14.35897435897436,5.717948717948718,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1477,2024-10-30,Pro,200,100,,0,15.1,6.6,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1478,2024-03-17,Pro,200,100,2024-10-12,1,13.533333333333333,5.3,8,97.0,194.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1479,2024-04-29,Basic,50,30,,0,13.777777777777779,6.5,5,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1482,2024-11-05,Basic,50,30,,0,17.333333333333332,6.111111111111111,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1483,2024-12-20,Pro,200,100,,0,10.0,5.5,0,8.0,16.0,Low Risk: Upsell Pro/Enterprise Features
+1485,2024-02-05,Pro,200,100,,0,14.791666666666666,5.75,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1486,2024-09-03,Pro,200,100,,0,15.055555555555555,6.666666666666667,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1487,2024-04-29,Pro,200,100,,0,14.63888888888889,5.75,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1488,2024-01-09,Enterprise,500,200,,0,13.673076923076923,6.115384615384615,10,16.0,80.0,Low Risk: Upsell Pro/Enterprise Features
+1489,2024-06-15,Pro,200,100,,0,14.931034482758621,5.310344827586207,4,3.0,6.0,Low Risk: Upsell Pro/Enterprise Features
+1490,2024-05-24,Pro,200,100,,0,15.21875,6.09375,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1491,2024-06-29,Pro,200,100,,0,12.185185185185185,5.851851851851852,6,23.0,46.0,Low Risk: Upsell Pro/Enterprise Features
+1492,2024-04-06,Pro,200,100,,0,14.692307692307692,6.128205128205129,7,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1494,2024-12-19,Enterprise,500,200,,0,17.0,3.5,0,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1495,2024-08-20,Basic,50,30,,0,13.0,5.25,2,58.0,29.0,Medium Risk: Send Feature Tutorial & Product Tip Campaign
+1496,2024-02-06,Basic,50,30,,0,14.291666666666666,5.979166666666667,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1497,2024-04-24,Basic,50,30,,0,15.35135135135135,6.54054054054054,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1500,2024-01-26,Basic,50,30,,0,14.061224489795919,5.877551020408164,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1501,2025-03-13,Enterprise,500,200,2025-05-19,1,9.5,4.0,0,89.0,445.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1503,2024-09-05,Basic,50,30,,0,14.882352941176471,6.529411764705882,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1504,2024-05-07,Pro,200,100,,0,15.714285714285714,6.171428571428572,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1506,2024-08-18,Basic,50,30,,0,15.1,5.8,3,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1507,2024-10-12,Enterprise,500,200,,0,14.083333333333334,6.333333333333333,1,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1508,2024-10-09,Pro,200,100,,0,16.76923076923077,6.076923076923077,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1509,2024-10-08,Enterprise,500,200,,0,15.76923076923077,6.0,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1510,2024-01-09,Enterprise,500,200,2024-11-20,1,14.0,5.5,10,74.0,370.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1511,2024-03-21,Pro,200,100,,0,14.829268292682928,6.073170731707317,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1512,2024-05-05,Pro,200,100,,0,12.942857142857143,6.314285714285714,1,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1513,2024-07-11,Pro,200,100,,0,14.16,6.8,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1516,2024-12-24,Enterprise,500,200,,0,16.0,8.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1517,2024-03-12,Basic,50,30,,0,14.488372093023257,6.255813953488372,7,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1518,2024-03-03,Basic,50,30,,0,13.636363636363637,6.0227272727272725,3,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1519,2024-02-15,Enterprise,500,200,2025-06-03,1,13.382352941176471,5.897058823529412,10,45.0,225.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1520,2024-05-01,Basic,50,30,,0,15.555555555555555,5.5,3,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1521,2024-10-30,Pro,200,100,,0,16.6,5.8,2,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1522,2024-05-09,Pro,200,100,,0,16.470588235294116,5.235294117647059,5,3.0,6.0,Low Risk: Upsell Pro/Enterprise Features
+1523,2024-11-09,Pro,200,100,,0,14.25,5.875,0,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1524,2024-12-02,Pro,200,100,,0,17.2,6.2,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1525,2025-02-25,Enterprise,500,200,2025-05-13,1,7.583333333333333,4.333333333333333,5,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1527,2024-04-25,Pro,200,100,,0,14.0,5.25,3,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1532,2024-04-02,Enterprise,500,200,,0,15.025,5.95,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1534,2024-09-24,Enterprise,500,200,,0,12.933333333333334,5.6,3,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1535,2024-10-10,Pro,200,100,,0,17.166666666666668,6.25,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1536,2024-09-05,Pro,200,100,,0,14.176470588235293,5.9411764705882355,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1538,2024-08-26,Pro,200,100,,0,16.526315789473685,6.105263157894737,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1540,2024-10-16,Pro,200,100,,0,12.5,6.583333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1541,2024-11-25,Pro,200,100,,0,17.166666666666668,5.333333333333333,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1542,2024-06-16,Basic,50,30,,0,13.310344827586206,6.241379310344827,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1543,2024-02-12,Enterprise,500,200,,0,14.617021276595745,6.085106382978723,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1544,2024-11-02,Pro,200,100,2025-04-28,1,11.038461538461538,5.769230769230769,3,80.0,160.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1545,2024-11-16,Basic,50,30,,0,14.714285714285714,6.857142857142857,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1547,2024-07-15,Enterprise,500,200,,0,13.08,6.2,1,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1548,2024-01-01,Basic,50,30,,0,14.226415094339623,5.754716981132075,5,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1549,2024-04-24,Pro,200,100,,0,14.702702702702704,6.27027027027027,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1550,2024-01-05,Basic,50,30,,0,13.846153846153847,6.153846153846154,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1551,2024-02-24,Basic,50,30,,0,13.466666666666667,6.088888888888889,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1552,2024-07-08,Enterprise,500,200,2025-03-12,1,12.527777777777779,5.638888888888889,6,74.0,370.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1553,2024-01-17,Enterprise,500,200,,0,14.803921568627452,5.980392156862745,7,5.0,25.0,Low Risk: Upsell Pro/Enterprise Features
+1554,2024-09-22,Pro,200,100,,0,15.066666666666666,6.333333333333333,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1557,2025-03-12,Enterprise,500,200,2025-05-06,1,4.875,2.625,1,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1558,2024-02-23,Enterprise,500,200,2024-04-14,1,8.25,3.125,0,89.0,445.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1561,2024-02-02,Enterprise,500,200,,0,14.479166666666666,6.041666666666667,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1562,2024-06-09,Enterprise,500,200,,0,14.366666666666667,5.8,3,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1563,2024-06-03,Basic,50,30,,0,15.419354838709678,6.290322580645161,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1565,2024-03-30,Pro,200,100,2024-06-02,1,8.9,3.7,3,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1566,2024-06-02,Basic,50,30,,0,16.0,6.0,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1568,2024-10-18,Basic,50,30,,0,13.0,6.181818181818182,2,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1570,2024-02-11,Enterprise,500,200,2025-03-17,1,12.310344827586206,5.758620689655173,5,70.0,350.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1573,2024-07-07,Enterprise,500,200,,0,16.384615384615383,5.846153846153846,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1574,2024-10-17,Enterprise,500,200,,0,14.909090909090908,6.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1575,2024-07-06,Enterprise,500,200,,0,15.23076923076923,6.423076923076923,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1576,2024-06-22,Pro,200,100,2025-03-31,1,13.536585365853659,4.975609756097561,3,88.0,176.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1578,2024-12-01,Basic,50,30,,0,15.2,7.2,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1579,2025-02-19,Basic,50,30,2025-05-13,1,9.666666666666666,4.666666666666667,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1580,2024-05-27,Pro,200,100,,0,14.59375,5.78125,5,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1586,2025-02-03,Pro,200,100,2025-06-30,1,10.5,5.181818181818182,5,93.0,186.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1588,2024-05-18,Basic,50,30,,0,12.848484848484848,6.151515151515151,3,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1589,2024-12-28,Enterprise,500,200,,0,16.0,8.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1590,2024-11-05,Enterprise,500,200,,0,10.777777777777779,6.444444444444445,0,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1591,2024-11-28,Enterprise,500,200,,0,19.0,5.6,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1592,2024-03-29,Pro,200,100,,0,15.0,6.275,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1593,2025-05-02,Basic,50,30,2025-06-01,1,3.8,3.0,4,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1594,2024-08-05,Pro,200,100,,0,17.272727272727273,6.454545454545454,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1595,2024-05-13,Pro,200,100,2024-08-20,1,10.466666666666667,4.733333333333333,2,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1596,2024-08-10,Pro,200,100,,0,13.333333333333334,6.095238095238095,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1597,2024-12-04,Basic,50,30,,0,16.0,4.8,0,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1598,2024-04-23,Basic,50,30,,0,15.45945945945946,6.0,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1599,2024-06-01,Pro,200,100,2025-02-21,1,13.789473684210526,5.105263157894737,6,65.0,130.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1602,2025-06-01,Basic,50,30,2025-06-30,1,0.8,1.2,3,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1603,2024-12-22,Enterprise,500,200,,0,12.0,5.5,0,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1604,2024-01-18,Enterprise,500,200,,0,14.4,5.86,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1605,2024-04-03,Pro,200,100,,0,14.35,6.075,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1607,2025-03-01,Pro,200,100,2025-05-01,1,8.444444444444445,4.0,4,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1609,2024-02-15,Basic,50,30,,0,15.065217391304348,6.108695652173913,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1611,2024-11-25,Pro,200,100,,0,16.0,5.666666666666667,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1613,2024-01-06,Enterprise,500,200,,0,15.442307692307692,5.884615384615385,10,36.0,180.0,Low Risk: Upsell Pro/Enterprise Features
+1615,2024-04-22,Pro,200,100,,0,14.756756756756756,6.54054054054054,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1616,2024-04-02,Enterprise,500,200,2025-03-28,1,14.076923076923077,5.653846153846154,4,64.0,320.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1617,2024-01-25,Basic,50,30,2025-03-12,1,13.745762711864407,5.9491525423728815,15,70.0,35.0,High Risk: Automated Re-engagement Email & 15% Discount
+1620,2024-12-21,Pro,200,100,,0,18.5,7.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1621,2024-04-14,Basic,50,30,,0,15.81578947368421,6.5,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1622,2024-02-24,Enterprise,500,200,,0,13.644444444444444,5.977777777777778,6,6.0,30.0,Low Risk: Upsell Pro/Enterprise Features
+1624,2024-07-27,Enterprise,500,200,2024-09-19,1,8.375,3.25,2,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1625,2024-01-07,Basic,50,30,,0,16.173076923076923,5.403846153846154,4,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1626,2024-05-30,Basic,50,30,,0,16.612903225806452,6.193548387096774,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1627,2024-08-26,Enterprise,500,200,,0,15.789473684210526,6.368421052631579,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1628,2024-10-14,Basic,50,30,,0,15.833333333333334,7.0,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1629,2024-11-21,Pro,200,100,2025-04-21,1,12.772727272727273,4.818181818181818,4,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1630,2024-01-30,Basic,50,30,,0,14.857142857142858,6.040816326530612,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1632,2024-11-19,Pro,200,100,,0,14.714285714285714,6.0,1,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1633,2024-02-16,Enterprise,500,200,,0,13.521739130434783,6.413043478260869,7,17.0,85.0,Low Risk: Upsell Pro/Enterprise Features
+1634,2024-08-11,Enterprise,500,200,,0,16.285714285714285,6.761904761904762,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1635,2024-01-30,Enterprise,500,200,,0,15.428571428571429,6.6938775510204085,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1636,2024-08-11,Enterprise,500,200,,0,13.333333333333334,4.809523809523809,2,36.0,180.0,Low Risk: Upsell Pro/Enterprise Features
+1639,2024-09-06,Pro,200,100,,0,14.411764705882353,6.235294117647059,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1640,2024-11-28,Basic,50,30,,0,15.0,7.2,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1641,2024-07-25,Basic,50,30,,0,11.869565217391305,4.6521739130434785,3,98.0,49.0,High Risk: Automated Re-engagement Email & 15% Discount
+1643,2024-06-24,Basic,50,30,,0,15.25,5.857142857142857,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1644,2024-11-07,Enterprise,500,200,,0,14.375,5.875,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1647,2024-12-11,Basic,50,30,,0,17.25,8.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1652,2024-06-30,Basic,50,30,,0,13.925925925925926,5.962962962962963,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1653,2024-04-23,Pro,200,100,,0,13.756756756756756,6.486486486486487,4,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1656,2024-10-01,Pro,200,100,2025-01-15,1,10.125,4.75,4,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1657,2024-12-14,Basic,50,30,,0,12.666666666666666,6.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1658,2024-12-21,Enterprise,500,200,,0,15.5,4.5,0,15.0,75.0,Low Risk: Upsell Pro/Enterprise Features
+1659,2024-06-20,Pro,200,100,,0,12.821428571428571,6.642857142857143,4,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1660,2024-03-11,Enterprise,500,200,,0,14.488372093023257,5.813953488372093,2,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1661,2024-03-22,Basic,50,30,,0,14.097560975609756,6.048780487804878,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1663,2024-07-20,Basic,50,30,,0,14.708333333333334,5.291666666666667,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1664,2024-01-23,Enterprise,500,200,,0,15.34,6.14,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1665,2024-08-20,Enterprise,500,200,,0,14.4,6.75,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1668,2024-12-18,Enterprise,500,200,,0,15.666666666666666,7.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1669,2024-04-17,Enterprise,500,200,,0,14.157894736842104,6.131578947368421,1,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1671,2024-09-19,Basic,50,30,,0,13.466666666666667,6.6,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1672,2024-08-19,Basic,50,30,2024-09-25,1,5.0,2.3333333333333335,1,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1674,2024-02-07,Pro,200,100,,0,15.541666666666666,5.666666666666667,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1675,2024-07-05,Pro,200,100,,0,15.346153846153847,5.653846153846154,2,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1676,2024-07-18,Enterprise,500,200,,0,12.125,5.625,4,22.0,110.0,Low Risk: Upsell Pro/Enterprise Features
+1677,2024-04-18,Basic,50,30,,0,13.81081081081081,6.216216216216216,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1678,2024-02-08,Enterprise,500,200,,0,14.53191489361702,6.617021276595745,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1681,2024-12-10,Enterprise,500,200,,0,20.0,6.5,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1682,2024-04-04,Basic,50,30,,0,14.128205128205128,6.333333333333333,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1683,2024-03-06,Pro,200,100,2025-06-14,1,13.298507462686567,5.895522388059701,10,79.0,158.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1685,2024-09-13,Pro,200,100,,0,14.3125,5.4375,3,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1686,2024-04-19,Basic,50,30,2025-04-21,1,13.0,5.811320754716981,5,91.0,45.5,High Risk: Automated Re-engagement Email & 15% Discount
+1687,2024-04-29,Enterprise,500,200,,0,14.36111111111111,6.25,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1688,2024-12-23,Basic,50,30,,0,15.0,6.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1690,2024-06-21,Pro,200,100,,0,16.107142857142858,6.071428571428571,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1691,2024-09-29,Enterprise,500,200,,0,13.857142857142858,6.5,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1692,2024-08-06,Pro,200,100,,0,12.0,6.863636363636363,2,3.0,6.0,Low Risk: Upsell Pro/Enterprise Features
+1695,2024-10-08,Pro,200,100,,0,16.153846153846153,5.461538461538462,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1697,2025-04-24,Basic,50,30,2025-06-13,1,5.375,2.25,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1699,2024-01-07,Pro,200,100,,0,14.01923076923077,5.5,6,11.0,22.0,Low Risk: Upsell Pro/Enterprise Features
+1701,2024-09-12,Basic,50,30,,0,12.3125,5.875,0,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1702,2024-12-07,Enterprise,500,200,,0,11.75,5.5,0,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1703,2024-10-24,Basic,50,30,,0,12.0,6.8,2,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1706,2024-07-17,Enterprise,500,200,,0,15.2,6.68,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1708,2024-03-05,Basic,50,30,,0,15.068181818181818,5.659090909090909,2,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1709,2024-07-11,Pro,200,100,2025-03-10,1,13.514285714285714,5.257142857142857,6,86.0,172.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1710,2024-04-16,Basic,50,30,,0,14.105263157894736,6.026315789473684,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1713,2024-09-01,Enterprise,500,200,2024-10-05,1,5.6,2.6,1,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1714,2024-07-24,Enterprise,500,200,2024-09-03,1,3.1666666666666665,2.3333333333333335,5,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1715,2024-06-07,Enterprise,500,200,,0,15.0,6.233333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1716,2024-07-31,Basic,50,30,,0,14.391304347826088,5.782608695652174,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1717,2025-06-16,Basic,50,30,2025-06-30,1,1.0,1.6666666666666667,3,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1720,2024-11-30,Basic,50,30,,0,10.4,5.6,0,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1721,2024-10-28,Basic,50,30,2025-04-03,1,12.565217391304348,5.434782608695652,4,89.0,44.5,High Risk: Automated Re-engagement Email & 15% Discount
+1722,2024-08-15,Enterprise,500,200,,0,15.15,6.45,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1723,2024-01-03,Enterprise,500,200,,0,15.339622641509434,5.679245283018868,6,11.0,55.0,Low Risk: Upsell Pro/Enterprise Features
+1724,2024-11-20,Enterprise,500,200,2025-04-02,1,13.1,4.7,1,72.0,360.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1726,2025-03-01,Basic,50,30,2025-04-30,1,7.777777777777778,4.777777777777778,4,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1727,2025-01-18,Pro,200,100,2025-06-22,1,10.478260869565217,5.0,1,88.0,176.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1730,2024-07-15,Enterprise,500,200,,0,14.84,5.96,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1731,2024-03-05,Enterprise,500,200,,0,14.659090909090908,6.136363636363637,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1733,2024-03-29,Pro,200,100,,0,15.475,6.25,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1734,2024-01-30,Pro,200,100,,0,13.448979591836734,6.142857142857143,3,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1736,2024-12-18,Enterprise,500,200,2025-02-25,1,9.4,3.9,3,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1737,2024-06-05,Pro,200,100,2024-10-09,1,11.789473684210526,3.9473684210526314,3,98.0,196.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1738,2024-02-22,Pro,200,100,,0,14.066666666666666,6.088888888888889,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1739,2024-08-12,Pro,200,100,,0,13.19047619047619,5.857142857142857,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1741,2024-03-10,Enterprise,500,200,,0,14.720930232558139,5.8604651162790695,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1742,2024-01-11,Pro,200,100,,0,14.607843137254902,5.764705882352941,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1745,2024-02-27,Basic,50,30,,0,14.933333333333334,5.8,4,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1746,2024-05-28,Basic,50,30,,0,14.75,6.0625,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1747,2024-05-09,Pro,200,100,2024-07-21,1,8.727272727272727,4.909090909090909,2,99.0,198.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1748,2024-02-04,Pro,200,100,,0,14.666666666666666,6.1875,7,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1750,2024-10-24,Enterprise,500,200,2025-05-10,1,13.10344827586207,5.0344827586206895,3,86.0,430.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1751,2024-06-23,Basic,50,30,,0,14.464285714285714,5.928571428571429,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1752,2024-08-20,Basic,50,30,,0,14.55,5.9,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1753,2024-09-26,Pro,200,100,,0,15.214285714285714,7.357142857142857,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1755,2024-03-28,Enterprise,500,200,,0,12.2,5.875,5,15.0,75.0,Low Risk: Upsell Pro/Enterprise Features
+1756,2024-03-07,Pro,200,100,,0,12.86046511627907,5.744186046511628,5,50.0,100.0,Medium Risk: Assign Support Specialist for Ticket Resolution
+1757,2024-05-03,Basic,50,30,,0,12.257142857142858,6.485714285714286,3,4.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1758,2024-04-25,Basic,50,30,,0,14.444444444444445,6.166666666666667,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1759,2024-05-05,Pro,200,100,2024-12-13,1,12.59375,5.125,4,97.0,194.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1760,2024-12-23,Basic,50,30,,0,12.0,3.5,0,13.0,6.5,Low Risk: Upsell Pro/Enterprise Features
+1761,2024-11-27,Basic,50,30,,0,17.0,5.166666666666667,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1762,2024-05-25,Basic,50,30,,0,14.0,5.8125,3,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1763,2024-07-12,Pro,200,100,,0,15.16,5.88,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1764,2024-12-04,Enterprise,500,200,2025-01-10,1,6.333333333333333,2.8333333333333335,2,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1765,2024-06-16,Basic,50,30,2024-12-02,1,12.4,5.2,4,98.0,49.0,High Risk: Automated Re-engagement Email & 15% Discount
+1767,2024-12-31,Pro,200,100,2025-04-09,1,9.4,4.733333333333333,1,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1768,2025-06-22,Pro,200,100,2025-06-30,1,1.5,1.5,0,87.0,174.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1770,2024-05-05,Pro,200,100,,0,13.342857142857143,5.9714285714285715,5,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1771,2024-07-10,Enterprise,500,200,,0,15.538461538461538,5.346153846153846,3,6.0,30.0,Low Risk: Upsell Pro/Enterprise Features
+1773,2024-08-26,Basic,50,30,,0,14.052631578947368,5.7894736842105265,4,4.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1774,2024-10-29,Basic,50,30,,0,13.4,6.3,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1775,2024-05-20,Pro,200,100,,0,15.424242424242424,6.0606060606060606,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1777,2024-01-06,Basic,50,30,,0,14.538461538461538,5.673076923076923,5,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1778,2024-01-09,Basic,50,30,,0,13.346153846153847,6.1923076923076925,9,10.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1779,2024-11-09,Basic,50,30,,0,13.125,5.875,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1780,2024-08-24,Basic,50,30,,0,14.473684210526315,6.2105263157894735,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1781,2024-04-20,Basic,50,30,,0,14.432432432432432,6.0,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1783,2024-09-26,Pro,200,100,,0,15.857142857142858,6.857142857142857,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1784,2024-10-29,Pro,200,100,,0,13.3,6.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1785,2024-10-07,Basic,50,30,,0,11.538461538461538,5.615384615384615,0,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1786,2024-06-30,Enterprise,500,200,,0,13.666666666666666,5.7407407407407405,4,8.0,40.0,Low Risk: Upsell Pro/Enterprise Features
+1787,2024-04-02,Enterprise,500,200,,0,15.6,6.15,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1790,2024-12-08,Pro,200,100,,0,13.75,5.75,3,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1791,2025-05-24,Pro,200,100,2025-06-23,1,5.0,2.4,2,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1792,2024-10-16,Basic,50,30,,0,15.166666666666666,5.666666666666667,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1793,2024-02-03,Basic,50,30,,0,14.666666666666666,5.895833333333333,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1794,2024-09-29,Enterprise,500,200,,0,14.0,6.571428571428571,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1795,2024-09-10,Enterprise,500,200,,0,15.352941176470589,5.529411764705882,0,4.0,20.0,Low Risk: Upsell Pro/Enterprise Features
+1796,2024-03-13,Basic,50,30,,0,15.395348837209303,5.767441860465116,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1798,2024-10-27,Enterprise,500,200,,0,13.0,7.4,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1799,2024-10-24,Basic,50,30,,0,14.5,6.6,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1803,2024-02-25,Enterprise,500,200,,0,14.644444444444444,6.4,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1805,2024-10-21,Pro,200,100,,0,17.09090909090909,5.636363636363637,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1806,2024-12-16,Enterprise,500,200,2025-03-18,1,12.642857142857142,4.0,3,92.0,460.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1807,2024-12-06,Basic,50,30,2025-03-13,1,11.428571428571429,4.571428571428571,3,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1808,2024-11-04,Enterprise,500,200,,0,17.11111111111111,6.111111111111111,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1810,2024-12-17,Enterprise,500,200,2025-03-23,1,10.571428571428571,5.0,4,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1812,2024-10-20,Pro,200,100,,0,18.545454545454547,5.181818181818182,3,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1813,2024-12-01,Basic,50,30,,0,12.8,4.8,0,15.0,7.5,Low Risk: Upsell Pro/Enterprise Features
+1814,2024-09-16,Basic,50,30,,0,15.0625,6.5,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1815,2024-02-20,Pro,200,100,,0,13.978260869565217,5.913043478260869,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1816,2024-03-27,Pro,200,100,,0,15.146341463414634,6.195121951219512,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1817,2024-04-21,Enterprise,500,200,2024-05-26,1,3.3333333333333335,1.6666666666666667,2,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1819,2024-09-24,Pro,200,100,,0,13.2,6.133333333333334,1,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1820,2024-02-14,Pro,200,100,,0,15.617021276595745,6.0638297872340425,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1821,2024-08-31,Basic,50,30,,0,12.61111111111111,5.555555555555555,3,23.0,11.5,Low Risk: Upsell Pro/Enterprise Features
+1822,2025-02-05,Basic,50,30,2025-03-24,1,5.714285714285714,4.0,4,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1824,2025-05-16,Pro,200,100,2025-06-15,1,2.4,2.6,2,100.0,200.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1827,2024-08-11,Enterprise,500,200,,0,12.619047619047619,6.523809523809524,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1829,2024-06-12,Enterprise,500,200,,0,14.533333333333333,5.866666666666666,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1830,2024-11-01,Enterprise,500,200,,0,14.555555555555555,6.444444444444445,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1831,2024-01-13,Pro,200,100,,0,13.901960784313726,5.882352941176471,5,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1833,2024-07-25,Pro,200,100,,0,13.304347826086957,5.782608695652174,2,10.0,20.0,Low Risk: Upsell Pro/Enterprise Features
+1834,2025-03-04,Pro,200,100,2025-06-02,1,11.153846153846153,4.846153846153846,3,99.0,198.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1835,2024-04-06,Basic,50,30,,0,12.435897435897436,5.9743589743589745,3,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1837,2025-01-01,Enterprise,500,200,,0,20.0,7.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1838,2024-10-31,Pro,200,100,,0,12.0,5.444444444444445,0,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1842,2024-06-17,Basic,50,30,,0,14.0,5.379310344827586,5,5.0,2.5,Low Risk: Upsell Pro/Enterprise Features
+1843,2024-02-27,Pro,200,100,,0,14.977777777777778,6.266666666666667,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1844,2024-02-10,Basic,50,30,2025-03-12,1,12.736842105263158,5.842105263157895,7,37.0,18.5,Low Risk: Upsell Pro/Enterprise Features
+1845,2024-01-08,Basic,50,30,,0,13.403846153846153,5.9423076923076925,2,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1846,2024-09-26,Enterprise,500,200,,0,14.285714285714286,6.571428571428571,2,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1849,2024-11-15,Basic,50,30,,0,12.428571428571429,7.285714285714286,1,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1850,2024-01-09,Pro,200,100,,0,13.538461538461538,6.134615384615385,4,8.0,16.0,Low Risk: Upsell Pro/Enterprise Features
+1851,2024-01-11,Pro,200,100,,0,14.156862745098039,6.137254901960785,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1853,2024-05-14,Pro,200,100,,0,14.970588235294118,5.529411764705882,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1857,2024-12-30,Pro,200,100,,0,6.0,6.0,0,24.0,48.0,Low Risk: Upsell Pro/Enterprise Features
+1858,2024-03-28,Pro,200,100,,0,14.725,5.8,7,7.0,14.0,Low Risk: Upsell Pro/Enterprise Features
+1859,2024-03-22,Pro,200,100,,0,13.512195121951219,5.7560975609756095,5,18.0,36.0,Low Risk: Upsell Pro/Enterprise Features
+1860,2024-11-01,Basic,50,30,,0,8.88888888888889,5.333333333333333,0,44.0,22.0,Medium Risk: Send Feature Tutorial & Product Tip Campaign
+1862,2024-10-12,Enterprise,500,200,,0,16.5,5.583333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1863,2024-05-22,Basic,50,30,,0,15.545454545454545,5.878787878787879,4,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1864,2024-08-04,Pro,200,100,,0,12.409090909090908,5.7727272727272725,1,9.0,18.0,Low Risk: Upsell Pro/Enterprise Features
+1865,2024-04-08,Pro,200,100,,0,15.205128205128204,5.717948717948718,7,10.0,20.0,Low Risk: Upsell Pro/Enterprise Features
+1866,2024-07-30,Pro,200,100,,0,14.652173913043478,6.826086956521739,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1867,2024-05-04,Pro,200,100,,0,14.142857142857142,6.0285714285714285,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1869,2024-05-21,Basic,50,30,,0,14.818181818181818,5.7272727272727275,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1870,2024-07-23,Pro,200,100,,0,14.125,5.541666666666667,1,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1872,2024-09-23,Basic,50,30,,0,15.8,6.6,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1873,2024-02-24,Basic,50,30,,0,15.0,5.822222222222222,6,2.0,1.0,Low Risk: Upsell Pro/Enterprise Features
+1875,2024-02-05,Pro,200,100,,0,13.833333333333334,6.125,7,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1876,2024-12-05,Basic,50,30,2025-05-13,1,12.521739130434783,5.0,2,83.0,41.5,High Risk: Automated Re-engagement Email & 15% Discount
+1878,2024-11-26,Pro,200,100,,0,14.5,5.833333333333333,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1879,2024-11-13,Basic,50,30,,0,13.625,5.625,0,3.0,1.5,Low Risk: Upsell Pro/Enterprise Features
+1881,2024-11-19,Basic,50,30,,0,15.428571428571429,4.571428571428571,0,6.0,3.0,Low Risk: Upsell Pro/Enterprise Features
+1882,2024-08-10,Enterprise,500,200,,0,13.80952380952381,6.0476190476190474,4,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1883,2025-02-16,Basic,50,30,2025-04-07,1,6.25,3.625,3,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1884,2024-12-20,Pro,200,100,,0,10.0,7.5,0,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1885,2024-06-26,Pro,200,100,,0,14.892857142857142,5.5,2,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1887,2024-06-20,Basic,50,30,,0,13.464285714285714,6.428571428571429,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1888,2025-01-01,Pro,200,100,,0,15.0,4.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1889,2024-01-15,Basic,50,30,2024-10-29,1,13.285714285714286,5.404761904761905,9,96.0,48.0,High Risk: Automated Re-engagement Email & 15% Discount
+1890,2024-11-24,Pro,200,100,,0,17.333333333333332,6.5,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1893,2024-07-25,Basic,50,30,,0,14.0,6.434782608695652,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1894,2024-09-13,Basic,50,30,,0,16.75,5.625,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1895,2024-10-24,Pro,200,100,,0,15.9,6.2,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1896,2025-03-01,Basic,50,30,2025-06-07,1,8.333333333333334,4.066666666666666,1,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1897,2024-08-14,Basic,50,30,,0,12.904761904761905,5.809523809523809,2,13.0,6.5,Low Risk: Upsell Pro/Enterprise Features
+1899,2024-01-29,Pro,200,100,2025-01-24,1,13.25,5.134615384615385,10,94.0,188.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1900,2025-03-13,Basic,50,30,2025-05-05,1,6.25,3.5,1,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1902,2024-07-20,Enterprise,500,200,,0,13.458333333333334,5.291666666666667,1,3.0,15.0,Low Risk: Upsell Pro/Enterprise Features
+1903,2024-07-22,Basic,50,30,,0,15.0,5.708333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1904,2024-07-30,Basic,50,30,,0,16.26086956521739,6.0,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1905,2024-11-06,Enterprise,500,200,,0,11.555555555555555,6.333333333333333,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1906,2024-09-06,Enterprise,500,200,,0,16.470588235294116,5.411764705882353,3,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1907,2024-11-26,Basic,50,30,,0,13.833333333333334,6.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1909,2024-10-07,Pro,200,100,,0,16.923076923076923,5.538461538461538,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1910,2024-03-16,Pro,200,100,,0,14.166666666666666,5.690476190476191,5,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1911,2024-11-15,Pro,200,100,,0,13.285714285714286,5.285714285714286,0,9.0,18.0,Low Risk: Upsell Pro/Enterprise Features
+1912,2024-09-20,Basic,50,30,,0,14.0,6.6,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1913,2024-03-24,Enterprise,500,200,,0,15.902439024390244,6.317073170731708,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1915,2024-11-27,Pro,200,100,,0,12.666666666666666,5.833333333333333,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1916,2024-10-27,Basic,50,30,,0,15.2,6.5,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1918,2024-06-22,Pro,200,100,2024-12-13,1,12.76,6.24,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1919,2024-03-09,Basic,50,30,,0,15.116279069767442,6.395348837209302,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1920,2024-04-11,Pro,200,100,,0,13.763157894736842,6.157894736842105,7,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1921,2024-10-29,Enterprise,500,200,,0,14.1,5.1,2,12.0,60.0,Low Risk: Upsell Pro/Enterprise Features
+1922,2024-05-16,Enterprise,500,200,,0,14.969696969696969,6.0,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1924,2024-10-26,Basic,50,30,2025-06-20,1,13.470588235294118,5.617647058823529,10,74.0,37.0,High Risk: Automated Re-engagement Email & 15% Discount
+1925,2024-03-01,Basic,50,30,,0,14.795454545454545,5.681818181818182,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1926,2024-01-07,Enterprise,500,200,,0,15.25,5.75,4,5.0,25.0,Low Risk: Upsell Pro/Enterprise Features
+1927,2024-05-28,Pro,200,100,,0,15.34375,6.5625,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1929,2024-09-13,Enterprise,500,200,2024-11-18,1,10.3,4.0,4,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1930,2024-11-03,Basic,50,30,,0,13.222222222222221,6.666666666666667,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1931,2024-10-28,Basic,50,30,,0,14.6,5.5,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1932,2024-01-23,Pro,200,100,,0,15.82,6.24,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1933,2024-10-30,Basic,50,30,,0,12.4,4.3,0,9.0,4.5,Low Risk: Upsell Pro/Enterprise Features
+1935,2024-03-19,Pro,200,100,,0,14.30952380952381,6.214285714285714,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1937,2024-08-17,Enterprise,500,200,,0,13.95,6.1,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1938,2024-05-09,Basic,50,30,,0,14.882352941176471,6.0588235294117645,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1939,2024-01-22,Basic,50,30,,0,16.48,5.88,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1940,2024-05-28,Basic,50,30,,0,15.75,5.25,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1944,2024-08-31,Enterprise,500,200,,0,14.61111111111111,4.944444444444445,3,7.0,35.0,Low Risk: Upsell Pro/Enterprise Features
+1947,2024-04-27,Basic,50,30,,0,14.36111111111111,6.527777777777778,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1948,2024-12-16,Basic,50,30,,0,15.666666666666666,7.0,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1949,2024-06-14,Pro,200,100,,0,14.827586206896552,6.206896551724138,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1950,2024-04-14,Pro,200,100,,0,14.657894736842104,5.605263157894737,4,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1951,2024-05-13,Basic,50,30,2024-11-02,1,11.72,5.92,4,67.0,33.5,Medium Risk: Assign Support Specialist for Ticket Resolution
+1952,2024-04-15,Pro,200,100,,0,15.105263157894736,5.7894736842105265,4,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1953,2025-06-20,Basic,50,30,2025-06-30,1,1.0,1.0,2,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1954,2024-10-16,Enterprise,500,200,,0,14.333333333333334,5.833333333333333,2,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1958,2024-03-22,Enterprise,500,200,,0,15.341463414634147,6.048780487804878,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1959,2024-07-14,Basic,50,30,,0,15.12,5.24,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1960,2024-01-15,Enterprise,500,200,,0,14.313725490196079,6.137254901960785,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1961,2024-11-27,Pro,200,100,,0,15.833333333333334,7.0,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1962,2024-01-05,Pro,200,100,,0,13.961538461538462,5.884615384615385,7,4.0,8.0,Low Risk: Upsell Pro/Enterprise Features
+1963,2024-06-06,Enterprise,500,200,,0,13.766666666666667,6.2,5,1.0,5.0,Low Risk: Upsell Pro/Enterprise Features
+1965,2024-01-24,Basic,50,30,2025-06-15,1,13.89041095890411,5.52054794520548,11,86.0,43.0,High Risk: Automated Re-engagement Email & 15% Discount
+1966,2024-01-22,Pro,200,100,,0,14.46,6.34,6,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1967,2024-12-11,Pro,200,100,,0,14.25,5.75,0,1.0,2.0,Low Risk: Upsell Pro/Enterprise Features
+1970,2024-12-10,Pro,200,100,2025-06-21,1,12.892857142857142,5.214285714285714,3,71.0,142.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1972,2024-11-15,Pro,200,100,,0,11.428571428571429,5.571428571428571,1,5.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1973,2024-09-25,Basic,50,30,,0,15.4,7.066666666666666,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1974,2024-10-05,Enterprise,500,200,,0,18.076923076923077,5.769230769230769,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1975,2024-02-16,Basic,50,30,2024-07-13,1,11.0,5.409090909090909,5,100.0,50.0,High Risk: Automated Re-engagement Email & 15% Discount
+1976,2024-09-21,Pro,200,100,,0,12.733333333333333,5.466666666666667,0,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1977,2024-09-10,Basic,50,30,,0,13.176470588235293,6.9411764705882355,2,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1981,2024-08-05,Enterprise,500,200,,0,14.272727272727273,6.136363636363637,1,2.0,10.0,Low Risk: Upsell Pro/Enterprise Features
+1982,2024-06-19,Basic,50,30,2025-05-22,1,12.346938775510203,5.795918367346939,6,84.0,42.0,High Risk: Automated Re-engagement Email & 15% Discount
+1983,2024-03-13,Basic,50,30,,0,15.0,5.953488372093023,5,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1984,2024-04-06,Enterprise,500,200,,0,13.794871794871796,5.9743589743589745,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1985,2024-03-29,Basic,50,30,,0,14.35,6.125,8,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1986,2024-06-17,Enterprise,500,200,2024-11-16,1,13.727272727272727,5.090909090909091,3,76.0,380.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1987,2024-03-30,Enterprise,500,200,,0,14.525,6.1,7,7.0,35.0,Low Risk: Upsell Pro/Enterprise Features
+1988,2024-11-29,Enterprise,500,200,2025-03-28,1,11.055555555555555,4.833333333333333,4,100.0,500.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+1989,2024-08-24,Basic,50,30,,0,15.210526315789474,5.842105263157895,1,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1991,2024-11-10,Pro,200,100,,0,14.25,6.0,1,2.0,4.0,Low Risk: Upsell Pro/Enterprise Features
+1992,2024-05-23,Pro,200,100,,0,15.75,6.125,0,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1993,2024-06-19,Pro,200,100,,0,14.689655172413794,6.448275862068965,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1994,2024-01-04,Basic,50,30,,0,14.057692307692308,6.326923076923077,4,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
+1995,2024-01-23,Pro,200,100,,0,14.44,6.46,8,8.0,16.0,Low Risk: Upsell Pro/Enterprise Features
+1998,2024-01-13,Basic,50,30,,0,14.470588235294118,6.098039215686274,7,1.0,0.5,Low Risk: Upsell Pro/Enterprise Features
+1999,2025-04-08,Enterprise,500,200,2025-06-05,1,6.777777777777778,4.777777777777778,5,97.0,485.0,High Priority: Priority 1-on-1 Call & 25% Renewal Discount
+2000,2024-07-24,Pro,200,100,,0,15.083333333333334,5.833333333333333,3,0.0,0.0,Low Risk: Upsell Pro/Enterprise Features
